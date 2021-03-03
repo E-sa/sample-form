@@ -19,6 +19,6 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.7.0",
     "morgan": "~1.9.1",
-    "pug": "2.0.0-beta11"
+    "pug": "3.0.1"
   }
 }
